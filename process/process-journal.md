@@ -41,3 +41,31 @@ I like the idea of even thinking about this as being more specifically related t
 Basically I think there's a lot to like here, but some major decisions to be made along with that. I guess I could try making both the 2D and 3D versions separately. Or you could play the 2D version inside the 3D version while killing time ha ha.
 
 There's an element of airplane mode here, but I think there's something about the "killer's gaze" directed at a film that's really interesting. Also shades of something like Pulp Fiction, killers doing ordinary things while waiting to do terrible things.
+
+---
+
+# Let the game fit the available creative commons video (19-04-2021 11:16)
+
+Something that is kind of making some decisions for me is the availability of appropriate video for the 2D context discussed above. I'm simply not finding a whole lot of statically framed, no-cuts video of... anything at all. In my dreams there would have been all these recordings of operas from a tripod, but the reality is that those things don't appear to be out there to the extent my searching has been able to find them.
+
+Whereas there definitely is availability of Old Movies. Soooo, it's kind of looking like I have to return to Unity and create a movie theatre scenario. I'm a little afraid because that sounds like quite a large project, but on the other hand is *is* quite an interesting things to work on in that so much of what will need doing is kind of traditional game stuff, since the game is trying to look and feel like a proper exciting game, while actually not being that. (Now that I mention this I'm vaguely thinking about *A Hand With Many Fingers* as an inspiration point here.)
+
+Well then oh boy. So how do I make some headway into this?
+
+* Get the latest Unity for the millionth fucking time
+* Worry about it playing nice with the M1 in this new computer
+* Investigate playing a CC film inside the engine both for application and WEBGL versions
+* Buy a cinema (there's that low poly one which is a touch gross, but may be the best bet)
+* Play the movie in the cinema
+
+Why I am I writing a to do list inside my process journal?
+
+Well at any rate those are the first few steps in what could turn out to be a pretty fucking painful process. A couple of early thoughts...
+
+* I'm likely to be quite constrained by the nature of the cinema asset I download because I don't think(?) I want to drill down to the level of modelling my own stuff, which in turn means being kind of stuff with whatever is there (like if I want a bathroom scene and there's no bathroom then there's no bathroom scene). There could be some interest in that, or it could be "ruined"?
+* There are aesthetic constraints too. I need to have people in this world and they then need to match the architecture of the cinema (in terms of resolution, palette, etc.) which is another light nightmare
+* Should I be trying to make a cinema in Pro Builder so that I can control everything? Is that just asking for trouble or is that a way to train myself more deeply in things that I may well want to use in the future? Could go for some kind of Super Hot minimalism in terms of texturing etc., or at least flat textures to avoid going mad? Do I want to do that? Maaaaaybe. Maybe. I don't really know.
+* There are just many spiralling implications here. I think it's worth buying the cinema first regardless as a place to stage things, and then if I need to make my own to feel good about things I can do that separately afterwards. Maybe this is just a game that will take a while to make and I can be okay with that?
+* I'll need to watch the film I choose because I think I do like that idea of the handler making comments about the film as it goes along either through an earpiece or as they sit there behind you, that can feed into the adaptation part of things (maybe it could even be some lame film crit. "this reminds me of x")
+
+Okay well, we have some steps to take. Including starting a proper to do document and writing the first why draft.
